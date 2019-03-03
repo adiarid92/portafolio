@@ -1,0 +1,19 @@
+.slider {
+    background: url('images/bg-1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+}
+.title {
+    color: green;
+}
+.bor {
+    border: 1px gray solid;
+}
+#photo {
+    height: 100px;
+}
+
+.hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
