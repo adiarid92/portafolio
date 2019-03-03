@@ -1,12 +1,3 @@
-.slider {
-    background: url('images/bg-1.jpg');
-    height: 100vh;
-    background-size: cover;
-    background-position: center; 
-}
-.title {
-    color: green;
-}
 .bor {
     border: 1px gray solid;
 }
